@@ -1,5 +1,5 @@
 __author__ = "James Turk (dev@jamesturk.net)"
-__version__ = "2.0.0-dev1"
+__version__ = "2.0.0"
 __license__ = "BSD"
 
 from django.core.exceptions import ImproperlyConfigured
